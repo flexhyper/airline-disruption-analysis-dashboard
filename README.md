@@ -23,3 +23,17 @@ The dashboard focuses on operational disruption indicators such as flight cancel
 
 ## Purpose
 This project demonstrates the use of business intelligence and data visualization to study a real-world geopolitical disruption and its operational impact on the aviation industry.
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/Executive_Overview.jpg)
+
+### Regional Disruption Analysis
+![Disruption Analysis](screenshots/Disruption_Analysis.jpg)
+
+### Financial Impact Analysis
+![Airline Impact and Financial Analysis](screenshots/Airline_Impact_and_Financial_Analysis.jpg)
+
+### Route and Efficiency Analysis
+![Route and Efficiency Analysis](screenshots/Route_and_Efficiency_Analysis.jpg)
