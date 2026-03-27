@@ -27,13 +27,13 @@ This project demonstrates the use of business intelligence and data visualizatio
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/Executive_Overview.jpg)
+![Executive Overview](screenshots/executive-overview.jpg)
 
 ### Regional Disruption Analysis
-![Disruption Analysis](screenshots/Disruption_Analysis.jpg)
+![Disruption Analysis](screenshots/regional-disruption-analysis.jpg)
 
 ### Financial Impact Analysis
-![Airline Impact and Financial Analysis](screenshots/Airline_Impact_and_Financial_Analysis.jpg)
+![Airline Impact and Financial Analysis](screenshots/financial-impact-analysis.jpg)
 
 ### Route and Efficiency Analysis
-![Route and Efficiency Analysis](screenshots/Route_and_Efficiency_Analysis.jpg)
+![Route and Efficiency Analysis](screenshots/route-efficiency-analysis.jpg)
